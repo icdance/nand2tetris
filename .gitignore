@@ -1,6 +1,8 @@
 *
 !/**/
+!*.dig
 !*.hdl
 !*.asm
+.gitignore
 tools/
 Digital/
