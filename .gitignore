@@ -1,0 +1,6 @@
+*
+!.gitignore
+!/**/
+!*.hdl
+!*.asm
+tools/
