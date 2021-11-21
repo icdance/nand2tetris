@@ -1,6 +1,6 @@
 *
-!.gitignore
 !/**/
 !*.hdl
 !*.asm
 tools/
+Digital/
